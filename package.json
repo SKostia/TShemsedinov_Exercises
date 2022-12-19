@@ -1,0 +1,19 @@
+{
+  "name": "exercises2.9",
+  "version": "1.0.0",
+  "description": "exercises for chapter 2.9",
+  "main": "._exercise1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKostia/TShemsedinov_Exercises.git"
+  },
+  "author": "Syrov Kostia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SKostia/TShemsedinov_Exercises/issues"
+  },
+  "homepage": "https://github.com/SKostia/TShemsedinov_Exercises#readme"
+}
